@@ -31,7 +31,7 @@
 
 <div align="center">
   
-  ![Willy GitHub stats](https://github-readme-stats.vercel.app/api?username=wborg&show_icons=true&theme=radical&custom_title=Willy%20Borges&bg_color=00000000&border_color=FF4500&title_color=FF8C00&text_color=9400D3)
+  ![Willy GitHub stats](https://github-readme-stats.vercel.app/api?username=Wborg&show_icons=true&theme=radical&custom_title=Willy%20Borges&bg_color=00000000&border_color=FF4500&title_color=FF8C00&text_color=9400D3)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wborg&layout=compact&bg_color=00000000&border_color=FF4500&title_color=FF8C00&theme=radical&custom_title=Linguagens%20mais%20usadas&text_color=9400D3)
     
  </div>
